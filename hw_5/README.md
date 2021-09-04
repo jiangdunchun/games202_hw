@@ -8,10 +8,10 @@
 - [ ] Bonus 1: 实现 À-Trous Wavelet 加速单帧降噪
 
 # results
-<center><video src="results/box-result.mp4" width="40%" controls="controls"></video></center>
+![](results/box-result.gif)
 
 > box
 
-<center><video src="results/pinkroom-result.mp4" width="40%" controls="controls"></video></center>
+![](results/pinkroom-result.gif)
 
 > pink room

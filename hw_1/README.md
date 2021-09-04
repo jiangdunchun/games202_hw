@@ -16,6 +16,6 @@
 
 > PCF
 
-![](images/PCSS_1.gif)
+![](images/PCSS_1.png)
 
 > PCSS
