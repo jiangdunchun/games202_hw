@@ -8,7 +8,7 @@
 - [ ] Bonus：多光源 ShadowMap 和动态物体。
 
 # images
-![](images/SM_1.PNG)
+![](images/SM_1.png)
 
 > ShadowMap
 
